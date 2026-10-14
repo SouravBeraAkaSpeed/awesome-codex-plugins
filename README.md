@@ -359,6 +359,7 @@ Third-party plugins built by the community. [PRs welcome](#contributing)!
 - [Context Pack](https://github.com/Rothschildiuk/context-pack) - Generate compact first-pass repository briefings for coding agents before deeper exploration.
 - [Coolify](https://github.com/Sevi-py/coolify-codex-plugin) - Control Coolify Cloud and self-hosted Coolify instances through API-aware workflow skills and local tools.
 - [Court Rules](https://github.com/foklepoint/court-rules-codex-plugin) - Search U.S. federal and state court filing rules, judge standing orders, local rules and court holidays through the hosted Court Rules MCP server, with a skill that cites the court's own document.
+- [DamnPDFs](https://github.com/SouravBeraAkaSpeed/damnpdfs-codex-plugin) - Use 71 PDF, image and Office file tools through a paired DamnPDFs browser tab, with temporary cloud processing for native conversions and local imports.
 - [Darkmoon](https://github.com/ASCIT31/darkmoon-mcp-server) - Start authorized autonomous AI pentest runs, poll status, list campaigns and read findings on your own self-hosted Darkmoon Pro through MCP.
 - [Data Product Builder for dbt](https://github.com/entropy-data/dataproduct-builder-dbt) - Full data-product lifecycle on dbt for Entropy Data: scaffold, audit, and integrate projects with ODCS, ODPS, OpenLineage, and GitHub Actions.
 - [Datacircle](https://github.com/waynehamadi/datacircle-plugin) - Query your favorite B2B data APIs through us. Same request, same price, no markup.
